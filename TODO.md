@@ -2,7 +2,7 @@
 
 
 - images Basics 
-    - Reading image from Directory - [x]
+   - [x]  Reading image from Directory - [x]
     - Reading All the images from Directory
     - Changing the Formate of images 
         - Gray Scale 
