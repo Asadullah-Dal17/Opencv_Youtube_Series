@@ -2,10 +2,12 @@ Here you will learn opencv from Basic to Advance topics,
 
 # Opencv Course 
 
+## Installation of Opencv
+    [ ] Uisng python package manger (pip) 
 
-# Basic
+## Basic
 - Basics images::camera::
-    - [] Reading image from Directory :file_folder:
+    - [ ] Reading image from Directory :file_folder:
     - [ ] Reading All the images from Directory:file_folder:
     - [ ] Changing the Formate of images 
         - Gray Scale    :black_large_square::white_large_square:
@@ -24,7 +26,9 @@ Here you will learn opencv from Basic to Advance topics,
 - [ ] Making thing Interactive(Animation)
 - [ ] Work on Videos
     - Live Webcam Input / Video Input
+
 ## Intermediate
+
 - Important Function to Know
     - Smoothing Images(Blur)
         - [ ] 2D Convolution ( Image Filtering )
@@ -32,33 +36,35 @@ Here you will learn opencv from Basic to Advance topics,
         - [ ] Gaussian Blurring
         - [ ] Median Blurring
         - [ ] Bilateral Filtering
-    - [] Edge Detection
-    - [] Corner Detection
-    - [] Grid Detection
-- [] Geometric Transformations of Images
-    - [] Scaling
-    - [] Rotation
-    - [] Affine Transformation
-    - [] Perspective Transformation
-- [] Cropping images 
+    - [ ] Edge Detection
+    - [ ] Corner Detection
+    - [ ] Grid Detection
+- [ ] Geometric Transformations of Images
+    - [ ] Scaling
+    - [ ] Rotation
+    - [ ] Affine Transformation
+    - [ ] Perspective Transformation
+- [ ] Cropping images 
+
 ## Advance 
-- [] Thresholding
-    - [] Types of Thresholding 
-    - [] Adaptive Thresholding
-- [] Masking 
-    - [] cropping image in different Shapes using Masking
-- [] Template Matching 
-- [] Contours Detection
-    - [] Different Shapes Detection
-    - [] Sorting Contours by Area
-- [] Segmentation
-    - [] WaterShed Algorithm
-- [] Object Detection 
-    - [] Face detection
-    - [] Face Recognition (opencv)
-    - [] Object Tracking 
-    - [] Optical Flow 
-    - [] Feature Matching
+
+- [ ] Thresholding
+    - [ ] Types of Thresholding 
+    - [ ] Adaptive Thresholding
+- [ ] Masking 
+    - [ ] cropping image in different Shapes using Masking
+- [ ] Template Matching 
+- [ ] Contours Detection
+    - [ ] Different Shapes Detection
+    - [ ] Sorting Contours by Area
+- [ ] Segmentation
+    - [ ] WaterShed Algorithm
+- [ ] Object Detection 
+    - [ ] Face detection
+    - [ ] Face Recognition (opencv)
+    - [ ] Object Tracking 
+    - [ ] Optical Flow 
+    - [ ] Feature Matching
 
 
 <br>
