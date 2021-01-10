@@ -3,7 +3,17 @@ Here you will learn opencv from Basic to Advance topics,
 # Opencv Course 
 
 ## Installation of Opencv
-    [ ] Uisng python package manger (pip) 
+- [ ] Using python package manger (pip)
+    - Linux or Mac User:  
+    
+        **pip3 install opencv-contrib-python**
+
+    - Windows User: 
+
+        **pip install opencv-contrib-python**
+
+- [ ] By Using Anaconda package Manger( Optional )
+
 
 ## Basic
 - Basics images::camera::
@@ -29,6 +39,9 @@ Here you will learn opencv from Basic to Advance topics,
 
 ## Intermediate
 
+- [] Mouse Events
+    - Draw Shape using Mouse Clicks
+    - Crop Rectangle area using mouse
 - Important Function to Know
     - Smoothing Images(Blur)
         - [ ] 2D Convolution ( Image Filtering )
