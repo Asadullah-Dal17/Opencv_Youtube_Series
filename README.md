@@ -3,7 +3,7 @@ Here you will learn opencv from Basic to Advance topics,
 # Opencv Course 
 
 ## Installation of Opencv
-- [ ] Using python package manger (pip)
+- [x] Using python package manger (pip)
     - Linux or Mac User:  
     
         **pip3 install opencv-contrib-python**
@@ -12,12 +12,12 @@ Here you will learn opencv from Basic to Advance topics,
 
         **pip install opencv-contrib-python**
 
-- [ ] By Using Anaconda package Manger( Optional )
+- [x] By Using Anaconda package Manger( Optional )
 
 
 ## Basic
 - Basics images::camera::
-    - [ ] Reading image from Directory :file_folder:
+    - [x] Reading image from Directory :file_folder:
     - [ ] Reading All the images from Directory:file_folder:
     - [ ] Changing the Formate of images 
         - Gray Scale    :black_large_square::white_large_square:
@@ -39,7 +39,7 @@ Here you will learn opencv from Basic to Advance topics,
 
 ## Intermediate
 
-- [] Mouse Events
+- [ ] Mouse Events
     - Draw Shape using Mouse Clicks
     - Crop Rectangle area using mouse
 - Important Function to Know
