@@ -88,11 +88,14 @@ Here you will learn opencv from Basic to Advance topics,
 ### My Social Media 
 <br/>
 <a href="https://www.youtube.com/c/aiphile">
-<img border="0" alt="W3Schools" src="icons/Youtube.gif" width="100" height="100">
+<img border="0" alt="W3Schools" src="icons/Youtube2.png" width="60" height="60">
 </a>
 <a href="https://www.facebook.com/AIPhile17">
-<img border="0" alt="W3Schools" src="icons/facebook.gif" width="100" height="100">
+<img border="0" alt="W3Schools" src="icons/facebook.png"  width="60" height="60">
 </a>
-
+</a>
+<a href="linkedin.com/in/asadullah-dal-87906019b">
+<img border="0" alt="W3Schools" src="icons/LinkedIn.png" width="60" height="60">
+</a>
 
 
