@@ -88,14 +88,20 @@ Here you will learn opencv from Basic to Advance topics,
 ### My Social Media 
 <br/>
 <a href="https://www.youtube.com/c/aiphile">
-<img border="0" alt="W3Schools" src="icons/Youtube2.png" width="60" height="60">
+<img style="border: 5px solid #ddd; border-radius: 100px;
+box-shadow: 0 0 20px 3px rgba(255, 0, 0, 0.6);
+  padding:  5px 5px;" border="10" alt="Youtube" src="icons/Youtube2.png" width="60" height="60">
 </a>
 <a href="https://www.facebook.com/AIPhile17">
-<img border="0" alt="W3Schools" src="icons/facebook.png"  width="60" height="60">
+<img style="border: 5px solid #ddd; border-radius: 100px;
+box-shadow: 0 0 20px 3px rgba(0, 255, 255, 0.6);
+  padding:  5px 5px;" border="10" alt="AiPhile" src="icons/facebook.png"  width="60" height="60">
 </a>
 </a>
-<a href="linkedin.com/in/asadullah-dal-87906019b">
-<img border="0" alt="W3Schools" src="icons/LinkedIn.png" width="60" height="60">
+<a href="linkedin.com/in/https://www.linkedin.com/in/asadullah-dal17/">
+<img style="border: 5px solid #ddd; border-radius: 100px;
+box-shadow: 0 0 20px 3px rgba(255, 0, 255, 0.6);
+  padding:  5px 5px;" border="10" alt="Linkedin" src="icons/LinkedIn.png" width="60" height="60">
 </a>
 
 
