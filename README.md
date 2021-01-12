@@ -52,6 +52,12 @@ Here you will learn opencv from Basic to Advance topics,
     - [ ] Edge Detection
     - [ ] Corner Detection
     - [ ] Grid Detection
+- [ ] Morphological Transformations
+    - [ ] Erosion
+    - [ ] Dilation
+    - [ ] Opening
+    - [ ] Closing
+    - [ ] Morphological Gradient
 - [ ] Geometric Transformations of Images
     - [ ] Scaling
     - [ ] Rotation
@@ -60,7 +66,7 @@ Here you will learn opencv from Basic to Advance topics,
 - [ ] Cropping images 
 
 ## Advance 
-
+- [ ] Image Gradients
 - [ ] Thresholding
     - [ ] Types of Thresholding 
     - [ ] Adaptive Thresholding
