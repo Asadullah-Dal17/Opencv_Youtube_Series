@@ -18,8 +18,8 @@ Here you will learn opencv from Basic to Advance topics,
 ## Basic
 - Basics images::camera::
     - [x] Reading image from Directory :file_folder:
-    - [x] Reading All the images from Directory:file_folder:
-    - [x] Changing the Formate of images 
+    - [ ] Reading All the images from Directory:file_folder:
+    - [ ] Changing the Format of images 
         - Gray Scale    :black_large_square::white_large_square:
         - BGR to RGB  :blue_heart::green_heart::heart:  to :heart::green_heart::blue_heart:
         - Saving the image in directory 

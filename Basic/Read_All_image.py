@@ -1,14 +1,16 @@
-import cv2 as cv 
+import os 
+import cv2 as cv
 
-img = cv.imread('../images/RGB.png', cv.IMREAD_GRAYSCALE)
-img2 = cv.imread('../images/RGB.png', cv.IMREAD_REDUCED_COLOR_4)
-
-cv.imshow("gray", img)
-cv.imshow('img2', img2)
-cv.waitKey(0)
-cv.destroyAllWindows()
-
-
+DirPath = '..\images'
+Files = os.listdir(DirPath)
+for File in Files:
+    imgPath = os.path.join(DirPath, File)
+    print(imgPath)
+    image = cv.imread(imgPath, cv.IMREAD_GRAYSCALE)
+    cv.imwrite(f'../results/gray_{File}', image)
+#     cv.imshow('image', image)
+#     cv.waitKey(0)
+# cv.destroyAllWindows()
 
 '''	
 IMREAD_COLOR
