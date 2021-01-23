@@ -36,6 +36,11 @@ Here you will learn opencv from Basic to Advance topics,
 - [ ] Making thing Interactive(Animation)
 - [ ] Work on Videos
     - Live Webcam Input / Video Input
+	- Adjusting Parameter
+		- set frame height and width for Video input
+		- brightness 
+		- constrat
+		- saturation 
 
 ## Intermediate
 
