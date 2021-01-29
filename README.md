@@ -13,8 +13,6 @@ Here you will learn opencv from Basic to Advance topics,
         **pip install opencv-contrib-python**
 
 - [x] By Using Anaconda package Manger( Optional )
-
-
 ## Basic
 - Basics images::camera::
     - [x] Reading image from Directory :file_folder:
@@ -23,8 +21,8 @@ Here you will learn opencv from Basic to Advance topics,
         - Gray Scale    :black_large_square::white_large_square:
         - BGR to RGB  :blue_heart::green_heart::heart:  to :heart::green_heart::blue_heart:
         - Saving the image in directory 
+    - [x] Accessing pixels
     - [ ] Resizing Images
-    - [ ] Accessing pixels
 - [ ] Drawing the Shapes 
     - Lines 
     - Rectangle
