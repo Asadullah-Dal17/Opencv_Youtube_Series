@@ -22,7 +22,7 @@ Here you will learn opencv from Basic to Advance topics,
         - BGR to RGB  :blue_heart::green_heart::heart:  to :heart::green_heart::blue_heart:
         - Saving the image in directory 
     - [x] Accessing pixels
-    - [ ] Resizing Images
+    - [x] Resizing Images
 - [ ] Drawing the Shapes 
     - Lines 
     - Rectangle
