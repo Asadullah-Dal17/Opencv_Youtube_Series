@@ -28,6 +28,7 @@ Here you will learn opencv from Basic to Advance topics,
     - Rectangle
     - Circles
     - Drawing the Text 
+    - Polyline 
 - [ ] Using TrackBars to change the color of Box:white_large_square:
     - creating empty image using Numpy
     - Drawing Box and changing its color
