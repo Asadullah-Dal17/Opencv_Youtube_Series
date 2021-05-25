@@ -23,7 +23,7 @@ Here you will learn opencv from Basic to Advance topics,
         - Saving the image in directory 
     - [x] Accessing pixels
     - [x] Resizing Images
-- [ ] Drawing the Shapes 
+- [X] Drawing the Shapes 
     - Lines 
     - Rectangle
     - Circles
