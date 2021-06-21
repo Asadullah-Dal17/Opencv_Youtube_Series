@@ -33,18 +33,18 @@ Here you will learn opencv from Basic to Advance topics,
   - Circles
   - Drawing the Text
   - Polyline
-- [ ] Using TrackBars to change the color of Box:white_large_square:
+- [x] Using TrackBars to change the color of Box:white_large_square:
   - creating empty image using Numpy
   - Drawing Box and changing its color
-- [ ] Making thing Interactive(Animation)
+- [x] Making thing Interactive(Animation)
 
 - [ ] Work on Videos
   - Live Webcam Input / Video Input
   - Adjusting Parameter
     - set frame height and width for Video input
     - brightness
-    - constrat
     - saturation
+    [Reference for Parameters](https://docs.opencv.org/3.4/d4/d15/group__videoio__flags__base.html)
 
 ## Intermediate
 
