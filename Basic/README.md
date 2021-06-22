@@ -7,22 +7,22 @@ Complete Playlist is here [**Opencv-Python-Series**](https://www.youtube.com/wat
 - [x] Reading, and setup [Video Tutorial](https://youtu.be/vPMzYlTcsZg)
     - Installation 
     - Checking Version
-    - Reading Image from Dirctory
+    - Reading Image from Directory
      
 - [x] Reading All Images and Writing them on Dir [Video Tutorial](https://youtu.be/dilxFcbQDHs)
      - Convert to Gray Scale
      - Writing or Save image
      
-- [x] Resize Image [Vidoe Tutorial](https://youtu.be/WBlxPNhPY-c)
+- [x] Resize Image [Video Tutorial](https://youtu.be/WBlxPNhPY-c)
 
-- [x] Spiltting The Channels [Video Tutorial](https://youtu.be/yhbhwfIXtjY)
+- [x] Splitting The Channels [Video Tutorial](https://youtu.be/yhbhwfIXtjY)
     - Merging Spilling channels 
-    - Accessing Pexils and modify Pixel Values
-    - Opacity, or Transperancy of image Channel
+    - Accessing Pixels and modify Pixel Values
+    - Opacity, or Transparency of image Channel
 
 - [x] Draw Shapes, and Text [video Tutorial](https://youtu.be/lwaTt1GCGCs)
     
-- [x] Trackbars > Channge the color of image [Video Tutorial](https://youtu.be/D0hTQEbGb1k)
+- [x] Trackers > Change the color of image [Video Tutorial](https://youtu.be/D0hTQEbGb1k)
     -  Create empty image
     -  Change the color of Rectangle 
 
