@@ -27,7 +27,7 @@ Complete Playlist is here [**Opencv-Python-Series**](https://www.youtube.com/wat
    - Draw Text 
 
     
-- [x] Trackers > Change the color of image [Video Tutorial](https://youtu.be/D0hTQEbGb1k)
+- [x] TrackBars :-->> Change the color of Rectangle [Video Tutorial](https://youtu.be/D0hTQEbGb1k)
     -  Create empty image
     -  Change the color of Rectangle 
 
