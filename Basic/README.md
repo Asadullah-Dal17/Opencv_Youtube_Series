@@ -35,5 +35,5 @@ Complete Playlist is here [**Opencv-Python-Series**](https://www.youtube.com/wat
   - Video Capture (**camera :camera: or Video File**)
   - Recording Video Files
   - Change Resolution of Video
-  - Changes, Brightness, Constrict, etc.
+  - Changes, Brightness, Contrast, etc.
 
