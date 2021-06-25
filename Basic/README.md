@@ -31,9 +31,14 @@ Complete Playlist is here [**Opencv-Python-Series**](https://www.youtube.com/wat
     -  Create empty image
     -  Change the color of Rectangle 
 
-- [ ] Video 
+- [x] Video 
   - Video Capture (**camera :camera: or Video File**)
   - Recording Video Files
   - Change Resolution of Video
-  - Changes, Brightness, Constrict, etc.
+  - Changes, Brightness, Contrast, etc.
+    - [Set and Get Parameter for openCV](https://docs.opencv.org/3.4/d4/d15/group__videoio__flags__base.html)
+    
+## If you want to include and topic here let me know, I will probably add that.
+- [Contact me on Facebook](https://www.facebook.com/AIPhile17)
+
 
