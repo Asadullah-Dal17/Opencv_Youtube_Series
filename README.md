@@ -19,32 +19,46 @@ Here you will learn opencv from Basic to Advance topics,
 ## Basic
 
 - Basics images::camera::
-  - [x] Reading image from Directory :file_folder:
-  - [x] Reading All the images from Directory:file_folder:
-  - [x] Changing the Format of images
+[**Opencv-Python-Series**](https://www.youtube.com/watch?v=vPMzYlTcsZg&list=PLJ958Ls6nowUgrcGE2g77ggNl13TB_p-3)
+
+## Topics Covered In the Course  
+- [x] Reading, and setup [Video Tutorial](https://youtu.be/vPMzYlTcsZg)
+    - Installation 
+    - Checking Version
+    - Reading Image from Directory
+     
+- [x] Reading All Images and Writing them on Dir [Video Tutorial](https://youtu.be/dilxFcbQDHs)
     - Gray Scale :black_large_square::white_large_square:
     - BGR to RGB :blue_heart::green_heart::heart: to :heart::green_heart::blue_heart:
     - Saving the image in directory
-  - [x] Accessing pixels
-  - [x] Resizing Images
-- [x] Drawing the Shapes
-  - Lines
-  - Rectangle
-  - Circles
-  - Drawing the Text
-  - Polyline
-- [x] Using TrackBars to change the color of Box:white_large_square:
-  - creating empty image using Numpy
-  - Drawing Box and changing its color
-- [x] Making thing Interactive(Animation)
 
-- [ ] Work on Videos
-  - Live Webcam Input / Video Input
-  - Adjusting Parameter
-    - set frame height and width for Video input
-    - brightness
-    - saturation
-    [Reference for Parameters](https://docs.opencv.org/3.4/d4/d15/group__videoio__flags__base.html)
+
+     
+- [x] Resize Image [Video Tutorial](https://youtu.be/WBlxPNhPY-c)
+
+
+- [x] Splitting The Channels [Video Tutorial](https://youtu.be/yhbhwfIXtjY)
+    - Merging Spilling channels 
+    - Accessing Pixels and modify Pixel Values
+    - Opacity, or Transparency of image Channel
+
+- [x] Draw Shapes and Text [video Tutorial](https://youtu.be/lwaTt1GCGCs)
+   - Draw Rectangle
+   - Draw Circle
+   - Draw PolyLines
+   - Draw Text 
+
+- [x] TrackBars :-->> Change the color of Rectangle [Video Tutorial](https://youtu.be/D0hTQEbGb1k)
+    -  Create empty image
+    -  Change the color of Rectangle 
+
+
+- [x] Video 
+  - Video Capture (**camera :camera: or Video File**)
+  - Recording Video Files
+  - Change Resolution of Video
+  - Changes, Brightness, Contrast, etc.
+    - [Set and Get Parameter for openCV](https://docs.opencv.org/3.4/d4/d15/group__videoio__flags__base.html)
 
 ## Intermediate
 
