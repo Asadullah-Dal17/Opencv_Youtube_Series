@@ -31,7 +31,7 @@ Complete Playlist is here [**Opencv-Python-Series**](https://www.youtube.com/wat
     -  Create empty image
     -  Change the color of Rectangle 
 
-- [x] Video 
+- [ ] Video 
   - Video Capture (**camera :camera: or Video File**)
   - Recording Video Files
   - Change Resolution of Video
