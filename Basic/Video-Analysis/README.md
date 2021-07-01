@@ -24,3 +24,5 @@
 
 - Recording Video
 - Scaling and Recording
+
+[Video File Downloaded from Pexel:](https://www.pexels.com/video/time-lapse-video-of-night-sky-857195/)
